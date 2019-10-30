@@ -2,30 +2,15 @@
 too lazy to check attendence again and again on DMS 
 so i wrote a script for it. 
 
-### Markdown
+Target <https://dms.jaipur.manipal.edu/loginForm.aspx>
+- Auto-Login in DMS
+- Parse Html for Attendence
+- Return Table
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Stackoverflow - Password Filling with python](https://stackoverflow.com/questions/21186327/fill-username-and-password-using-selenium-in-python)
+- https://github.com/ritvikkhanna09/AutoLoginBot
+- https://www.geeksforgeeks.org/facebook-login-using-python/
+- [Selenium](https://seleniumhq.org)
+- [Selenium Tutorial on Youtube](https://youtube.com/watch?v=GJjMjB3rkJM)
