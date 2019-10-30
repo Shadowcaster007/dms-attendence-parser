@@ -1,4 +1,4 @@
-## DMS PARSER
+## DMS Parser
 too lazy to check attendence again and again on DMS 
 so i wrote a script for it. 
 
