@@ -7,10 +7,15 @@ Target <https://dms.jaipur.manipal.edu/loginForm.aspx>
 - Parse Html for Attendence
 - Return Table
 
-### Links 
+### Resource 
 
 - [Stackoverflow - Password Filling with python](https://stackoverflow.com/questions/21186327/fill-username-and-password-using-selenium-in-python)
 - https://github.com/ritvikkhanna09/AutoLoginBot
 - https://www.geeksforgeeks.org/facebook-login-using-python/
 - [Selenium](https://seleniumhq.org)
 - [Selenium Tutorial on Youtube](https://youtube.com/watch?v=GJjMjB3rkJM)
+
+### Contact
+Contact me:     
+[Instagram](instagram.com/manavendra.sen) 
+or [Twitter](twitter.com/manavendrasen)    
